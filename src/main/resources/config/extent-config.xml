@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentReports>
+    <configuration>
+        <theme>standard</theme>
+        <reportTitle>Test Summary Report</reportTitle>
+        <reportName>Test Summary Report</reportName>
+        <dateFormat>dd/mm/yyyy</dateFormat>
+        <timeFormat>HH:mm:ss</timeFormat>
+    </configuration>
+</extentReports>
